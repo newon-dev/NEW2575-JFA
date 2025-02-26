@@ -14,7 +14,7 @@ Documentação da API do sistema de tracking de ponte rolante Newon.
 
 | Data | Comentários | Retorno | Status |
 | ---- | ----------- | ------- | ------ |
-|      |             |         |        |
+|   26/02/2025   |    Emissão Original         |     --    |   --     |
 |      |             |         |        |
 |      |             |         |        |
 |      |             |         |        |
